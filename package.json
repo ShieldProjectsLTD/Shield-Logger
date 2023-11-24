@@ -1,0 +1,14 @@
+{
+  "name": "shield-logger",
+  "version": "1.1.0",
+  "description": "Very simple logger",
+  "main": "./src/main.js",
+  "scripts": {
+    "start": "node ./src/main.js"
+  },
+  "author": "Shield-Projects",
+  "license": "ISC",
+  "dependencies": {
+    "mysql2": "^3.6.5"
+  }
+}
